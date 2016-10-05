@@ -3,7 +3,7 @@ package com.example;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-/*@ComponentScan 组建扫描  只在自己所在的包下面进行扫描
+/*@ComponentScan 组建扫描  只在自己所在的包下面进行扫
 @EnableAutoConfiguration 开启自动配置
 @Configuration 配置控制*/
 @SpringBootApplication
